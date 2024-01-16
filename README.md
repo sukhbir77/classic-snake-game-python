@@ -16,4 +16,4 @@ Enjoy the nostalgia of the classic Snake Game with this Python implementation us
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Snake_Game.git
+   git clone https://github.com/sukhbir77/classic-snake-game-python.git
